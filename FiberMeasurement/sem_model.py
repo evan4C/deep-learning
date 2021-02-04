@@ -42,3 +42,4 @@ def sem_model(x_train, y_train):
     model.save('model.h5')
 
     return model, history
+
